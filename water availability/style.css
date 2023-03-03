@@ -1,0 +1,103 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-image: url("img/image3.jpg");
+    font-weight: bold;
+  }
+  
+  header {
+    font-size: 25px;
+    font-weight: bold;
+    background-color: white;
+    color: lightslategray;
+    /* text-align: center; */
+    padding: 10px;
+  }
+  span{
+    color:lightblue;
+  }
+  
+  h2{
+    text-decoration: underline;
+    
+
+  }
+  #avail{
+    text-align: center;
+  }
+  
+  nav {
+    background-color:rgba(168, 218, 235, 0.767);
+    border: 1px solid #ccc;
+    padding: 10px;
+    
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  nav li {
+    float: left;
+    padding: 0px 100px;
+    
+  }
+  #home{
+    padding-left: 300px;
+  }
+  
+  nav li a {
+    display: block;
+    color: #333;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    
+  }
+  
+  nav li a:hover {
+    background-color: #ddd;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  form {
+    display: inline-block;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  input[type="text"] {
+    padding: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  input[type="submit"] {
+    background-color: #333;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+  }
+  .txt{
+    font-size: 25px;
+    cursor: pointer;
+  }
+  #lesswater{
+    
+  }
+  footer {
+    
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+  }
+  
